@@ -1,5 +1,5 @@
 ---
-abstract: 'The great new App::Taka2PDF!'
+abstract: 'Takahashi to PDF converter'
 author:
   - 'Alex Kapranoff, C<< <alex at kapranoff.ru> >>'
 build_requires:

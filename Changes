@@ -1,5 +1,6 @@
 Revision history for App-Taka2PDF
 
-0.01    Date/time
-        First version, released on an unsuspecting world.
+0.01    Wed May 20 01:06:16 MSD 2009
+        Import my old attempt at taka2pdf converter into git.
+		Publish on github.
 

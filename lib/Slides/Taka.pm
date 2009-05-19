@@ -3,7 +3,6 @@ use strict;
 use warnings;
 
 use Carp;
-use Data::Dumper;
 use Encode;
 use File::Slurp;
 use Parse::RecDescent;
