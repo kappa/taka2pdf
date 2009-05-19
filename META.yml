@@ -1,0 +1,24 @@
+---
+abstract: 'The great new App::Taka2PDF!'
+author:
+  - 'Alex Kapranoff, C<< <alex at kapranoff.ru> >>'
+build_requires:
+  Test::More: 0
+distribution_type: module
+generated_by: 'Module::Install version 0.77'
+license: gpl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: App-Taka2PDF
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Class::Accessor: 0
+  File::Slurp: 0
+  PDF::API2: 0
+  Parse::RecDescent: 0
+  perl: 5.8
+version: 0.01

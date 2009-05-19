@@ -1,0 +1,9 @@
+^blib
+^\.git
+^x\.taka
+^parse_taka\.pl
+^pdf\.pl
+\.pdf$
+^Makefile(?:\.old)?$
+\.bak$
+^pm_to_blib$
